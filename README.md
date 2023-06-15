@@ -1,5 +1,5 @@
-# Exploratory_Data_Analysis_-EDA-_with_SQL
-This repository contains code and resources for conducting Exploratory Data Analysis (EDA) using SQL. As a data analyst and programmer, this repository serves as a handy toolkit for performing data exploration and gaining insights from structured data.
+# Exploratory_Data_Analysis_-EDA-_with_SQLite
+This repository contains code and resources for conducting Exploratory Data Analysis (EDA) using SQLite. As a data analyst and programmer, this repository serves as a handy toolkit for performing data exploration and gaining insights from structured data.
 <div class="images">
 <img src="sqlite.jpg" alt="" width="50%" height="200px" class="alignleft size-full">
   <div>
